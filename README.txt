@@ -14,5 +14,5 @@ This should create dist folder under the opengrok-config-UI. Contents of dist fo
 This step should create the final jar which should have compiled java classes as well as the js files copied from opengrok-config-UI/dist folder.
 
 Deploy:-
-Execute "mvn spring-boot:run"
+Execute "mvn spring-boot:run" from opengrok-config-service directory
 
